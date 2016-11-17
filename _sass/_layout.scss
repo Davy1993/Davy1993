@@ -2,44 +2,65 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $brand-color;
-    border-bottom: 1px solid $brand-color;
-    min-height: 56px;
+    list-style: none;
+    background-color: $brand-color;
+    padding: 0;
+    margin: 0;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    .wrapper {
+        border-bottom: 1px solid $grey-color-light;
+    }
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: $header-font-size;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
+    font-size: $header-font-size;
+    letter-spacing: -1px;
+
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-        background-color: $brand-color;
-        border-radius: 2px;
+        text-decoration: none;
+        color: #fff;
+        display: inline-block;
+        transition: .3s background-color;
+        line-height: 40px;
+        height: 40px;
+
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
+        }
+    }
+
+    .trigger a {
+
+        &:hover {
+            background-color: #005f5f;
+        }
+
+        &:active {
+            background-color: #fff;
+            color: #444;
+            cursor: default;
+
         }
     }
 
