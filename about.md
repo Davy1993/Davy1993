@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Davy heter jag som gör denna sidan som är den första examinerande uppgiften i 1dv022 - Klientbaserad Webprogrammering
+på Linnéuniversitetet i Kalmar.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Tycker hittills att Jekyll är ett väldigt kraftfullt verktyg som är väldigt lätt att hantera(om man bortser från
+den mycket krångliga installationen..).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+På sidan hittar ni lite information om mig samt mina svar på frågorna som ställs i samband med uppgiften.
