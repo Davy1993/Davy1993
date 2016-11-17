@@ -12,3 +12,6 @@ github_username: Davy1993
 
 # Build settings
 markdown: kramdown
+
+#Permalink structure
+permalink: /blog/:year/:month/:day/:title
