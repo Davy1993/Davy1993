@@ -45,3 +45,4 @@ Så jag använde mig utav en copy-paste variant från [Desired Persona](https://
 
 Med Open Graph kan man snygga till det om man ska länka sidan till någon via facebook, eller om någon delar sidan så att man får med en
  beskrivning, titel och en relevant bild så att man vet ungefär vad det är för någon länk innan man klickat sig in på länken.
+Får det inte till att funka däremot, tyvärr. Vet inte om det är för att facebook har cachat det då det inte fungerade, jag vet inte. Låter det vara som det är för tillfället.
