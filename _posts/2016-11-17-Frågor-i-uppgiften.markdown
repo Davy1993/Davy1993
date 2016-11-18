@@ -3,6 +3,8 @@ layout: post
 title: "Frågor i uppgiften"
 date: 2016-11-17
 comments: true
+thumbnail: "https://scontent-arn2-1.cdninstagram.com/t51.2885-19/s320x320/13556729_1063424913752591_1991802169_a.jpg"
+image: "https://scontent-arn2-1.cdninstagram.com/t51.2885-19/s320x320/13556729_1063424913752591_1991802169_a.jpg"
 ---
 
 ## What do you think of pre-compiling your CSS?
@@ -40,3 +42,6 @@ Så jag använde mig utav en copy-paste variant från [Desired Persona](https://
 
 
 ## What is Open Graph and how do you make use of it?
+
+Med Open Graph kan man snygga till det om man ska länka sidan till någon via facebook, eller om någon delar sidan så att man får med en
+ beskrivning, titel och en relevant bild så att man vet ungefär vad det är för någon länk innan man klickat sig in på länken.

@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Gjord utav dk222gw - Davy Karlsson.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+image: "https://scontent-arn2-1.cdninstagram.com/t51.2885-19/s320x320/13556729_1063424913752591_1991802169_a.jpg"
 twitter_username: DavyJonesK
 github_username: Davy1993
 
