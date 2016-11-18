@@ -1,0 +1,39 @@
+/* TEAM */
+
+Your title: Davy Karlsson
+
+                            
+Email: dk222gw@lnu.se
+
+                            
+Twitter: DavyJonesK
+
+                            
+Location: Kalmar, Sweden                                 
+
+						
+                 
+                        [...]
+
+
+							
+/* THANKS */
+
+Name: Teachers at Linnéuniversitetet
+
+						
+                 
+                        [...]                        
+
+
+                            
+/* SITE */
+
+                            
+Last update: 2016/11/18
+
+                            
+Standards: HTML5, CSS3                          
+
+                            
+Software: WebStorm, NotePad++, Jekyll, Putty, Vagrant, Visual Box
