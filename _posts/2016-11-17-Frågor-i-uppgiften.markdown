@@ -3,7 +3,6 @@ layout: post
 title: "Frågor i uppgiften"
 date: 2016-11-17
 comments: true
-thumbnail: "./img/thumbnail.jpg"
 ---
 
 ## What do you think of pre-compiling your CSS?
