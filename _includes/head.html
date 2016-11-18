@@ -4,14 +4,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:type" content="website" />
-    <!--Bilden är i storleken 320x320 och totala storleken är 19kB, förstår inte varför det inte går nu. Låter detta vara så att ni ser.-->
-    <meta property="og:image" content="https://scontent-arn2-1.cdninstagram.com/t51.2885-19/s320x320/13556729_1063424913752591_1991802169_a.jpg"/>
-    <meta property="og:url" content="https://davy1993.github.io/" />
+    <!--Facebook's debugger hade cachat en icke-fungerande version, så att det blev fel när jag testade. Detta funkar och är klart-->
+   <meta property="og:image" content="https://scontent-arn2-1.cdninstagram.com/t51.2885-19/s320x320/13556729_1063424913752591_1991802169_a.jpg"/>
+   <meta property="og:url" content="https://davy1993.github.io/" />
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+   <meta name="description" content="{{ site.description }}">
 
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link href="https://fonts.googleapis.com/css?family=Lato|Ubuntu" rel="stylesheet">
+   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+   <link href="https://fonts.googleapis.com/css?family=Lato|Ubuntu" rel="stylesheet">
 </head>
