@@ -5,11 +5,11 @@ date: 2016-11-03
 comments: true
 ---
 
-##Lite om mig
+## Lite om mig
 
 Jag är en helt vanlig kille på 22 år, bosatt i Läckeby med min flickvän som ligger ungefär 15km utanför Kalmar.
 
-##Livet innan Kalmar
+## Livet innan Kalmar
 
 Innan jag flyttade till Läckeby var jag bosatt i Norsjö som ligger på gränsen mellan Västerbotten och Lappland.
 Där jobbade jag som vikarie inom vården som personlig assistent, inom hemtjänsten och på gruppboende.
@@ -18,7 +18,7 @@ Livet innan Norsjö
 Innan jag flyttade till Norsjö studerade jag Datavetenskap på Umeå Universitet där jag spenderade 2 år.
 Tidigare bodde jag i Mörlunda som tillhör Hultsfreds kommun, ungefär 8.5mil från Kalmar.
 
-##Mina intressen
+## Mina intressen
 
 Mina intressen är inte så många, men jag listar dem nedanför.
 

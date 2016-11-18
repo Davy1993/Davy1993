@@ -191,12 +191,16 @@
 .page-content {
     padding: $spacing-unit 0;
 
-    a:link {
-        border-bottom: 1px solid #fff;
+    p{
+        a:link {
+            border-bottom: 1px solid #fff;
+        }
     }
 
-    a:hover {
-        color: #324f7a;
+    p {
+        a:hover {
+            color: #324f7a;
+        }
     }
 }
 
